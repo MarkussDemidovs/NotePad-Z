@@ -1,0 +1,17 @@
+C:\Users\Mark\source\repos\Notepad X\bin\Release\net8.0-windows\Notepad X.exe
+C:\Users\Mark\source\repos\Notepad X\bin\Release\net8.0-windows\Notepad X.deps.json
+C:\Users\Mark\source\repos\Notepad X\bin\Release\net8.0-windows\Notepad X.runtimeconfig.json
+C:\Users\Mark\source\repos\Notepad X\bin\Release\net8.0-windows\Notepad X.dll
+C:\Users\Mark\source\repos\Notepad X\bin\Release\net8.0-windows\Notepad X.pdb
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\Notepad_X.Form1.resources
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\Notepad_X.Form2.resources
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\Notepad X.csproj.GenerateResource.cache
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\Notepad X.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\Notepad X.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\Notepad X.AssemblyInfo.cs
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\Notepad X.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\Notepad X.dll
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\refint\Notepad X.dll
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\Notepad X.pdb
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\Notepad X.genruntimeconfig.cache
+C:\Users\Mark\source\repos\Notepad X\obj\Release\net8.0-windows\ref\Notepad X.dll
