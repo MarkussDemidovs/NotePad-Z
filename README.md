@@ -7,3 +7,9 @@ Click this link to get taken to the download page!
 
 ## Development
 This software was made using C#, and Winforms.
+
+## Credits:
+Hello! I am Markuss Demidov, the creator of this software. During
+the process of development, i have used multiple premade boilerplate code
+for use inside of my software.
+
