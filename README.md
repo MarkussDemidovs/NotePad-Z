@@ -13,3 +13,6 @@ Hello! I am Markuss Demidov, the creator of this software. During
 the process of development, i have used multiple premade boilerplate code
 for use inside of my software.
 
+## License:
+This software has an MIT License, which specifies what you can, and cannot do.
+You CANNOT reuse my project and claim it completely yours.
